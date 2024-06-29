@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.6.29)  29 JUN 2024 23:47
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.6.29)  30 JUN 2024 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -946,7 +946,7 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 116.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(AUTthesis.aux (chapter1.aux))
+(AUTthesis.aux (introduction.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1131,9 +1131,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4
 
 ])
-\openout2 = `chapter1.aux'.
+\openout2 = `introduction.aux'.
 
- (chapter1.tex
+ (introduction.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/B-NAZANIN.TTF(0)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
@@ -1181,9 +1181,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2]
 File: bloch.jpeg Graphic file (type bmp)
 <bloch.jpeg>
-LaTeX Font Info:    Font shape `TU/B-NAZANIN.TTF(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 85.
 
+
+LaTeX Warning: Citation `fundamentalsandapplications' on page 3 undefined on in
+put line 61.
+
+LaTeX Font Info:    Font shape `TU/B-NAZANIN.TTF(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 87.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1195,7 +1199,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3]
 
 LaTeX Warning: Citation `fundamentalsandapplications' on page 4 undefined on in
-put line 116.
+put line 126.
 
 )
 
@@ -1206,7 +1210,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4] (AUTthesis.bbl) (AUTthesis.aux (chapter1.aux))
+[4] (AUTthesis.bbl) (AUTthesis.aux (introduction.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1222,10 +1226,10 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: A2C4BEE0489621C6DFE3C752FC883A08;975.
  ) 
 Here is how much of TeX's memory you used:
- 18175 strings out of 409616
- 353578 string characters out of 5773992
+ 18173 strings out of 409616
+ 353665 string characters out of 5773992
  1934191 words of memory out of 5000000
- 39916 multiletter control sequences out of 15000+600000
+ 39914 multiletter control sequences out of 15000+600000
  565762 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,12n,110p,2408b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
