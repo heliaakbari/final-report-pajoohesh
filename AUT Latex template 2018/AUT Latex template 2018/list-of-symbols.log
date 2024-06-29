@@ -1,0 +1,864 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.5.2)  2 MAY 2021 19:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**list-of-symbols.tex
+(./list-of-symbols.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.3 {\centering\LARGE
+                     \textbf{فهرست نمادها}\par}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 {\centering\LARGE\textbf{فهرست نمادها}
+                                          \par}%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ف in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ه in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ر in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no س in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ت in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ن in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no م in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ا in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no د in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ه in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ا in font [lmroman10-bold]:mapping=tex-text;!
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 3--3
+ []\TU/lmr/bx/n/10 فهرست 
+ []
+
+
+Overfull \hbox (16.8pt too wide) in paragraph at lines 3--3
+ \TU/lmr/bx/n/10 نمادها 
+ []
+
+! Undefined control sequence.
+<argument> ...sname c@page\endcsname \thesavepage 
+                                                  \relax 
+l.6 \setcounter{page}{\thesavepage}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.6 \setcounter{page}{\thesavepage}
+                                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.10 \pagestyle{style3}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \symb
+          {\text{ نماد}}{مفهوم}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.13 \symb{\text
+                { نماد}}{مفهوم}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \symb{\text{ ن
+                   ماد}}{مفهوم}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+! Undefined control sequence.
+<recently read> \symb 
+                      
+l.17 \symb
+          {\mathbb{R}^n}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 \symb{\mathbb
+                  {R}^n}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no R in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 \symb{\mathbb{R}^
+                      n}{
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+! Extra }, or forgotten $.
+l.17 \symb{\mathbb{R}^n}
+                        {
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.18 فضای اقلیدسی با بعد $
+                          n$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ف in font cmmi10!
+Missing character: There is no ض in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no n in font nullfont!
+! Extra }, or forgotten $.
+l.19 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.20 \symb
+          {\mathbb{S}^n}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 \symb{\mathbb
+                  {S}^n}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.21 کره یکه $
+              n$ بعدی
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ک in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ک in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no n in font nullfont!
+! Extra }, or forgotten $.
+l.22 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.23 \symb
+          {M^m}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.24 خمینه $
+            m$-بعدی $M$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no خ in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no M in font nullfont!
+! Extra }, or forgotten $.
+l.25 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.26 \symb
+          {\mathfrak{X}(M)}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.26 \symb{\mathfrak
+                    {X}(M)}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.27 جبر میدان‌های  برداری هموار روی $
+                                      M$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ج in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ‌ in font cmr10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no M in font nullfont!
+! Extra }, or forgotten $.
+l.28 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.29 \symb
+          {\mathfrak{X}^1(M)}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \symb{\mathfrak
+                    {X}^1(M)}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 مجموعه میدان‌های برداری هموار یکه روی $
+                                            (M,g)$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ج in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ‌ in font cmr10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ک in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Extra }, or forgotten $.
+l.31 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.32 \symb
+          {\Omega^p(M)}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.33 مجموعه $
+             p$-فرمی‌های روی خمینه $M$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ج in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ف in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ‌ in font cmr10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no خ in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no M in font nullfont!
+! Extra }, or forgotten $.
+l.34 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.35 \symb
+          {Q}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 \symb
+          {\mathcal{R}}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 \symb
+          {ric}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.44 \symb
+          {L}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.47 \symb
+          {\Phi}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.50 \symb
+          {\nabla}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.53 \symb
+          {\Delta}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 \symb
+          {\nabla^*}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.59 \symb
+          {g_s}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.62 \symb
+          {\nabla}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 \symb
+          {\Delta}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.66 عملگر لاپلاس-بلترامی روی $
+                               p$-فرم‌ها
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no پ in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no چ in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ح in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no چ in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ش in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ف in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no خ in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ص in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no چ in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no پ in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ن in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no گ in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no خ in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ح in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ص in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ش in font cmmi10!
+Missing character: There is no د in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ز in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ص in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no چ in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ک in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ص in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ق in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no چ in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no ک in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ع in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no گ in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no پ in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no س in font cmmi10!
+Missing character: There is no ب in font cmmi10!
+Missing character: There is no ل in font cmmi10!
+Missing character: There is no ت in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no و in font cmmi10!
+Missing character: There is no ی in font cmmi10!
+Missing character: There is no p in font nullfont!
+! Extra }, or forgotten $.
+l.67 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ف in font cmmi10!
+Missing character: There is no ر in font cmmi10!
+Missing character: There is no م in font cmmi10!
+Missing character: There is no ‌ in font cmr10!
+Missing character: There is no ه in font cmmi10!
+Missing character: There is no ا in font cmmi10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--68
+[] 
+ []
+
+
+Overfull \hbox (313.88326pt too wide) in paragraph at lines 13--68
+[][]$$[][]$$[][]$$\OMS/cmsy/m/n/10 ^^@$$[][]$$[][]$$[][]$$^^@$$\OML/cmm/m/it/10
+ Q[]\OMS/cmsy/m/n/10 R[][][]\OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 ^^H[]\OMS/cmsy/
+m/n/10 r[]\OT1/cmr/m/n/10 ^^A[][][][][]\OMS/cmsy/m/n/10 r[]\OT1/cmr/m/n/10 ^^A[
+]$$\OMS/cmsy/m/n/10 ^^@$ 
+ []
+
+! Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.71 \thispagestyle{style3}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[0])
+! Emergency stop.
+<*> list-of-symbols.tex
+                       
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 27 strings out of 479819
+ 564 string characters out of 5895847
+ 244732 words of memory out of 5000000
+ 17247 multiletter control sequences out of 15000+600000
+ 532354 words of font info for 26 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 18i,4n,15p,81b,98s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on list-of-symbols.pdf (1 page).
