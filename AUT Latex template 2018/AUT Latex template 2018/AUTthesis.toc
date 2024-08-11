@@ -2,11 +2,21 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
 \contentsline {chapter}{فهرست تصاویر}{ج}{section*.2}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
-\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
-\contentsline {section}{\numberline {1-1}‌خواص دنیای محاسبات کوانتومی}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1-1-1}کیوبیت}{2}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1-1-2}ضرب تانسوری}{4}{subsection.1.1.2}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}‌خواص دنیای محاسبات کوانتومی}{4}{chapter.2}%
+\contentsline {section}{\numberline {2-1}کیوبیت}{5}{section.2.1}%
+\contentsline {section}{\numberline {2-2}ضرب تانسوری}{6}{section.2.2}%
+\contentsline {section}{\numberline {2-3}اصل برهم‌نهی}{7}{section.2.3}%
+\contentsline {section}{\numberline {2-4}اصل درهم‌تنیدگی}{7}{section.2.4}%
+\contentsline {section}{\numberline {2-5}برگشت‌پذیری و گیت های کوانتومی}{8}{section.2.5}%
+\contentsline {chapter}{\numberline {3}الگوریتم های کوانتومی‌}{9}{chapter.3}%
+\contentsline {section}{\numberline {3-1}الگوریتم دویچ}{10}{section.3.1}%
+\contentsline {section}{\numberline {3-2}الگوریتم گراور}{13}{section.3.2}%
+\contentsline {section}{\numberline {3-3}الگوریتم شور}{14}{section.3.3}%
+\contentsline {chapter}{\numberline {4}موارد استفاده محاسبات کوانتومی}{15}{chapter.4}%
+\contentsline {section}{\numberline {4-1}رمزنگاری کوانتومی}{16}{section.4.1}%
+\contentsline {section}{\numberline {4-2}شبیه‌سازی فیزیک کوانتوم}{16}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ترابرد کوانتومی}{17}{section.4.3}%
 \contentsfinish 

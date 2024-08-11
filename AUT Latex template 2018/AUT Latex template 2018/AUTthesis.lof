@@ -1,4 +1,13 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1-1}{\ignorespaces بازنمایی کیوبیت در کره بلاچ}}{3}{figure.1.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces بازنمایی کیوبیت در کره بلاچ}}{6}{figure.2.1}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces بازنمایی ماتریسی برخی از گیت های کوانتومی}}{8}{figure.2.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces تابع کوانتومی ارزیابی $f$}}{11}{figure.3.1}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces بازنمایی ماتریسی تابع کوانتومی ارزیابی $f$}}{11}{figure.3.2}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces مدار نهایی الگوریتم دویچ}}{11}{figure.3.3}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces حالت کیوبیت ها در هر مرحله از مدار}}{12}{figure.3.4}%
+\contentsline {figure}{\numberline {3-5}{\ignorespaces مدار گراور}}{13}{figure.3.5}%
+\addvspace {10\p@ }
 \contentsfinish 
